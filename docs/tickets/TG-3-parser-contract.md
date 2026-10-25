@@ -1,7 +1,7 @@
 # TG-3: Write the parser contract
 Owner role: Parser Engineer   Milestone: M0   Size: S
 Spec: §4 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] docs/contracts/parser.md defines ParseInput, ParseResult, pipeline rules, fixture format and accuracy targets

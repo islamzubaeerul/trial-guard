@@ -1,7 +1,7 @@
 # TG-7: Parser parity script
 Owner role: Parser Engineer   Milestone: M0   Size: S
 Spec: §4 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] scripts/parser-parity.sh runs both parsers and writes parity-report.md

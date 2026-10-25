@@ -1,7 +1,7 @@
 # TG-1: Create the monorepo layout
 Owner role: Release Engineer   Milestone: M0   Size: S
 Spec: §11 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] Given a fresh clone, when I list the root, then ios/, extension/, services-db/, parser-fixtures/, site/, docs/, .github/ exist

@@ -1,7 +1,7 @@
 # TG-6: Swift parser in TrialGuardCore
 Owner role: Parser Engineer   Milestone: M0   Size: M
 Spec: §4, §6 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] swift test passes on macOS with the same corpus

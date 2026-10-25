@@ -1,7 +1,7 @@
 # TG-5: TypeScript parser passing the corpus
 Owner role: Parser Engineer   Milestone: M0   Size: M
 Spec: §4 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] Given the corpus, when npm run report runs, then service ≥95%, trialEnd ≥90%, price ≥85%, negatives 100%

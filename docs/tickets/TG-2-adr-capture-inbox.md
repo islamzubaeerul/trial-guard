@@ -1,7 +1,7 @@
 # TG-2: Record ADR-001 capture inbox pattern
 Owner role: Tech Lead   Milestone: M0   Size: S
 Spec: §6 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] docs/adr/001-capture-inbox.md has Context, Decision, Alternatives, Consequences

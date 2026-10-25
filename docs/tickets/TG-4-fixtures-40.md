@@ -1,7 +1,7 @@
 # TG-4: Collect the first 40 parser fixtures
 Owner role: Parser Engineer   Milestone: M0   Size: M
 Spec: §4 of the Architecture & Design Spec
-Status: In progress
+Status: Done
 
 ## Acceptance criteria
 - [ ] At least 30 trial cases and 10 negative cases exist with expected JSON
