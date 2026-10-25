@@ -101,7 +101,7 @@ Decided in v1.2: whole-word `free trial`; `free for the first <n> days`; extra n
 
 | # | Question | Owner | Current behaviour |
 | --- | --- | --- | --- |
-| Q1 | Should intro offers ("$0.99 for the first month, then $12.99/month") get a reminder like a trial? | Owner (product) | Not a trial; `nextChargeDate` set when a charge cue is present |
+| Q1 | Should intro offers get a reminder like a trial? | **Decided 2026-10-25: yes** (TG-11, M1) | Not yet implemented: not a trial; `nextChargeDate` set when a charge cue is present |
 | Q2 | When one amount has two cycles ("$2.99/mo, billed annually $35.88"), which is the charge? | Parser Engineer | The first cycle after the amount wins |
 | Q3 | Cancel URLs per locale (Crave French, audible.com vs .ca) | Parser Engineer | One `cancelURL` per service |
 | Q4 | en-CA numeric dates: D/M or M/D? Canadian sites use both | Parser Engineer, with real fixtures | D/M unless one side is > 12 |
