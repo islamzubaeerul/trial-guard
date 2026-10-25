@@ -1,0 +1,4 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Premium renews soon
+#! sender=spotify.com
+Hi Alex, a quick heads-up: your Spotify Premium renews on November 5, 2026 for $11.99/month.

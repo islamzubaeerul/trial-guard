@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.amazon.ca/gp/video/offers
+#! title=Prime Video: Start your free trial
+Watch with a Prime Video free trial
+Try 30 days free. Then $9.99/month. Cancel anytime.

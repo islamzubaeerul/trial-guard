@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://one.google.com/about/plans
+#! title=Google One
+2 TB storage
+Try it free for 1 month, then $13.99/month.
+Share with up to 5 others.

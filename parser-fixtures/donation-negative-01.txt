@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://charity.example.org/give
+#! title=Give monthly
+Become a monthly donor
+Give $10/month to support clean water projects. You can stop anytime.

@@ -1,0 +1,9 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.coursera.org/purchase/receipt/2026-10-24/AX93K
+#! title=Your receipt from Coursera
+Coursera Plus — Monthly — 7-day free trial
+Start date: October 24, 2026
+Trial ends: October 31, 2026
+Due today: CA$0.00
+After your trial: CA$79/month, starting October 31, 2026.
+Billed to: Alex Doe, alex@example.com

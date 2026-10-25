@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": null,
+  "serviceName": "Brightloom Yoga Studio Online",
+  "trialEnd": "2026-11-07",
+  "trialDays": 14,
+  "price": "19.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": null,
+  "_why": "Unknown service: title fallback removes 'Checkout', splits on ' - ', keeps 'Brightloom Yoga Studio Online' (29 chars). AMBIGUITY: removing leading boilerplate leaves ' - Brightloom...' with an empty first part; implementations must drop empty parts. AMBIGUITY: cue 'first charge' is separated from the date by ' of $19.99/month will be on ' - does the '.' inside '19.99' count as a sentence-ending character? User expects it does not (cued, 0.95); either way trialEnd = today + 14 = 2026-11-07. No anchor and no DB entry -> cancelURL absent (never invent)."
+}

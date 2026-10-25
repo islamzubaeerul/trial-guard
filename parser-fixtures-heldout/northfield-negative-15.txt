@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.northfieldoutfitters.example/account/shipping-pass
+#! title=Northfield Outfitters - Your shipping perk
+Good news, Alex: enjoy free shipping for 30 days on every order, no minimum.
+Your shipping perk is active through November 23, 2026. Just shop as usual — the discount applies at checkout.

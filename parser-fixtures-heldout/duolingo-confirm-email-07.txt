@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=You're in! Welcome to Super
+#! sender=duolingo.com
+Hi Alex, mark your calendar: on November 7, 2026 you'll be charged CA$12.99/month for Super Duolingo.
+Until then, enjoy your 14-day free trial — no ads, unlimited hearts, personalized practice.
+Cancel anytime in the app.

@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Adobe free trial
+#! sender=mail.adobe.com
+Welcome to your Adobe Creative Cloud free trial.
+Your free trial ends on Oct 31, 2026.
+Starting Oct 31, 2026, you'll be billed US$22.99/mo plus applicable taxes.
+Order number: XXXX-XXXX

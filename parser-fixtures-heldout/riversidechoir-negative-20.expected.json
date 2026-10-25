@@ -1,0 +1,8 @@
+{
+  "isTrial": false,
+  "serviceKey": null,
+  "trialEnd": null,
+  "nextChargeDate": null,
+  "overallBelow": 0.5,
+  "_why": "A bare 'trial' ('trial run') is not a signal. Dates have no cue, so nextChargeDate must be absent too. Year-less dates and plain prices are present to tempt a parser that treats 'trial' + date + price as enough."
+}

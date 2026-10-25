@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.paramountplus.com/ca/account/signup/payment/
+#! title=Paramount+ | Payment
+Paramount+ Essential
+Special offer: $0.99 for the first month, then $12.99/month.
+Your plan renews automatically. You'll be billed $12.99 on November 24, 2026 unless you cancel.
+Account: alex@example.com

@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "canva",
+  "trialDays": 30,
+  "trialEnd": "2026-11-23",
+  "price": "16.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.canva.com/settings/billing-and-teams",
+  "overallAtLeast": 0.8
+}

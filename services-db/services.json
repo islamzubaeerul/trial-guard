@@ -1,0 +1,945 @@
+{
+  "version": 1,
+  "services": [
+    {
+      "key": "canva",
+      "displayName": "Canva",
+      "names": [
+        "Canva Pro",
+        "Canva"
+      ],
+      "domains": [
+        "canva.com"
+      ],
+      "emailDomains": [
+        "canva.com",
+        "email.canva.com"
+      ],
+      "cancelURL": "https://www.canva.com/settings/billing-and-teams",
+      "supportURL": "https://www.canva.com/help/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "spotify",
+      "displayName": "Spotify",
+      "names": [
+        "Spotify Premium",
+        "Spotify"
+      ],
+      "domains": [
+        "spotify.com"
+      ],
+      "emailDomains": [
+        "spotify.com"
+      ],
+      "cancelURL": "https://www.spotify.com/account/subscription/",
+      "supportURL": "https://support.spotify.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "adobe-creative-cloud",
+      "displayName": "Adobe Creative Cloud",
+      "names": [
+        "Adobe Creative Cloud",
+        "Creative Cloud",
+        "Adobe"
+      ],
+      "domains": [
+        "adobe.com"
+      ],
+      "emailDomains": [
+        "adobe.com",
+        "mail.adobe.com"
+      ],
+      "cancelURL": "https://account.adobe.com/plans",
+      "supportURL": "https://helpx.adobe.com/",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "notion",
+      "displayName": "Notion",
+      "names": [
+        "Notion Plus",
+        "Notion"
+      ],
+      "domains": [
+        "notion.so",
+        "notion.com"
+      ],
+      "emailDomains": [
+        "notion.so",
+        "mail.notion.so",
+        "notion.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://www.notion.com/help",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "youtube-premium",
+      "displayName": "YouTube Premium",
+      "names": [
+        "YouTube Premium",
+        "YouTube Music Premium"
+      ],
+      "domains": [
+        "youtube.com"
+      ],
+      "emailDomains": [
+        "youtube.com",
+        "google.com"
+      ],
+      "cancelURL": "https://www.youtube.com/paid_memberships",
+      "supportURL": "https://support.google.com/youtube/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "google-one",
+      "displayName": "Google One",
+      "names": [
+        "Google One",
+        "Google AI Pro"
+      ],
+      "domains": [
+        "one.google.com"
+      ],
+      "emailDomains": [
+        "google.com"
+      ],
+      "cancelURL": "https://one.google.com/settings",
+      "supportURL": "https://support.google.com/googleone/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "googlePlay",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "microsoft-365",
+      "displayName": "Microsoft 365",
+      "names": [
+        "Microsoft 365",
+        "Office 365"
+      ],
+      "domains": [
+        "microsoft.com",
+        "office.com"
+      ],
+      "emailDomains": [
+        "microsoft.com",
+        "email.microsoft.com",
+        "microsoftstore.com"
+      ],
+      "cancelURL": "https://account.microsoft.com/services",
+      "supportURL": "https://support.microsoft.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "headspace",
+      "displayName": "Headspace",
+      "names": [
+        "Headspace"
+      ],
+      "domains": [
+        "headspace.com"
+      ],
+      "emailDomains": [
+        "headspace.com",
+        "email.headspace.com"
+      ],
+      "cancelURL": "https://www.headspace.com/subscriptions",
+      "supportURL": "https://help.headspace.com/",
+      "logo": null,
+      "defaultTrialDays": 14,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "calm",
+      "displayName": "Calm",
+      "names": [
+        "Calm Premium",
+        "Calm"
+      ],
+      "domains": [
+        "calm.com"
+      ],
+      "emailDomains": [
+        "calm.com"
+      ],
+      "cancelURL": "https://www.calm.com/account",
+      "supportURL": "https://support.calm.com/",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "duolingo",
+      "displayName": "Duolingo",
+      "names": [
+        "Super Duolingo",
+        "Duolingo Max",
+        "Duolingo"
+      ],
+      "domains": [
+        "duolingo.com"
+      ],
+      "emailDomains": [
+        "duolingo.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://support.duolingo.com/",
+      "logo": null,
+      "defaultTrialDays": 14,
+      "billedVia": [
+        "appStore",
+        "googlePlay",
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "audible",
+      "displayName": "Audible",
+      "names": [
+        "Audible Premium Plus",
+        "Audible"
+      ],
+      "domains": [
+        "audible.ca",
+        "audible.com"
+      ],
+      "emailDomains": [
+        "audible.ca",
+        "audible.com"
+      ],
+      "cancelURL": "https://www.audible.ca/account/overview",
+      "supportURL": "https://help.audible.ca/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "crave",
+      "displayName": "Crave",
+      "names": [
+        "Crave"
+      ],
+      "domains": [
+        "crave.ca"
+      ],
+      "emailDomains": [
+        "crave.ca",
+        "bell.ca"
+      ],
+      "cancelURL": "https://www.crave.ca/en/account",
+      "supportURL": "https://www.crave.ca/en/help",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "paramount-plus",
+      "displayName": "Paramount+",
+      "names": [
+        "Paramount+",
+        "Paramount Plus"
+      ],
+      "domains": [
+        "paramountplus.com"
+      ],
+      "emailDomains": [
+        "paramountplus.com"
+      ],
+      "cancelURL": "https://www.paramountplus.com/account/",
+      "supportURL": "https://help.paramountplus.com/",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "nyt",
+      "displayName": "The New York Times",
+      "names": [
+        "The New York Times",
+        "New York Times",
+        "NYT"
+      ],
+      "domains": [
+        "nytimes.com"
+      ],
+      "emailDomains": [
+        "nytimes.com",
+        "e.newyorktimes.com"
+      ],
+      "cancelURL": "https://myaccount.nytimes.com/seg/subscription",
+      "supportURL": "https://help.nytimes.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "skillshare",
+      "displayName": "Skillshare",
+      "names": [
+        "Skillshare"
+      ],
+      "domains": [
+        "skillshare.com"
+      ],
+      "emailDomains": [
+        "skillshare.com"
+      ],
+      "cancelURL": "https://www.skillshare.com/settings/payments",
+      "supportURL": "https://help.skillshare.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "grammarly",
+      "displayName": "Grammarly",
+      "names": [
+        "Grammarly Pro",
+        "Grammarly Premium",
+        "Grammarly"
+      ],
+      "domains": [
+        "grammarly.com"
+      ],
+      "emailDomains": [
+        "grammarly.com"
+      ],
+      "cancelURL": "https://account.grammarly.com/subscription",
+      "supportURL": "https://support.grammarly.com/",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "dropbox",
+      "displayName": "Dropbox",
+      "names": [
+        "Dropbox Plus",
+        "Dropbox Essentials",
+        "Dropbox"
+      ],
+      "domains": [
+        "dropbox.com"
+      ],
+      "emailDomains": [
+        "dropbox.com",
+        "dropboxmail.com"
+      ],
+      "cancelURL": "https://www.dropbox.com/account/plan",
+      "supportURL": "https://help.dropbox.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "linkedin-premium",
+      "displayName": "LinkedIn Premium",
+      "names": [
+        "LinkedIn Premium",
+        "Premium Career",
+        "Premium Business"
+      ],
+      "domains": [
+        "linkedin.com"
+      ],
+      "emailDomains": [
+        "linkedin.com"
+      ],
+      "cancelURL": "https://www.linkedin.com/premium/manage",
+      "supportURL": "https://www.linkedin.com/help/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "apple-tv-plus",
+      "displayName": "Apple TV+",
+      "names": [
+        "Apple TV+"
+      ],
+      "domains": [
+        "tv.apple.com"
+      ],
+      "emailDomains": [
+        "apple.com",
+        "email.apple.com",
+        "insideapple.apple.com"
+      ],
+      "cancelURL": "https://apps.apple.com/account/subscriptions",
+      "supportURL": "https://support.apple.com/billing",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "apple-music",
+      "displayName": "Apple Music",
+      "names": [
+        "Apple Music"
+      ],
+      "domains": [
+        "music.apple.com"
+      ],
+      "emailDomains": [
+        "apple.com",
+        "email.apple.com",
+        "insideapple.apple.com"
+      ],
+      "cancelURL": "https://apps.apple.com/account/subscriptions",
+      "supportURL": "https://support.apple.com/billing",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "icloud-plus",
+      "displayName": "iCloud+",
+      "names": [
+        "iCloud+"
+      ],
+      "domains": [
+        "icloud.com"
+      ],
+      "emailDomains": [
+        "apple.com",
+        "email.apple.com",
+        "insideapple.apple.com"
+      ],
+      "cancelURL": "https://apps.apple.com/account/subscriptions",
+      "supportURL": "https://support.apple.com/billing",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "apple-arcade",
+      "displayName": "Apple Arcade",
+      "names": [
+        "Apple Arcade"
+      ],
+      "domains": [],
+      "emailDomains": [
+        "apple.com",
+        "email.apple.com",
+        "insideapple.apple.com"
+      ],
+      "cancelURL": "https://apps.apple.com/account/subscriptions",
+      "supportURL": "https://support.apple.com/billing",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "amazon-prime",
+      "displayName": "Amazon Prime",
+      "names": [
+        "Amazon Prime",
+        "Prime"
+      ],
+      "domains": [
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "emailDomains": [
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "cancelURL": "https://www.amazon.ca/gp/primecentral",
+      "supportURL": "https://www.amazon.ca/gp/help/customer/display.html",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "prime-video",
+      "displayName": "Prime Video",
+      "names": [
+        "Prime Video"
+      ],
+      "domains": [
+        "primevideo.com",
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "emailDomains": [
+        "amazon.ca",
+        "amazon.com",
+        "primevideo.com"
+      ],
+      "cancelURL": "https://www.primevideo.com/settings",
+      "supportURL": "https://www.primevideo.com/help",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "kindle-unlimited",
+      "displayName": "Kindle Unlimited",
+      "names": [
+        "Kindle Unlimited"
+      ],
+      "domains": [
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "emailDomains": [
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "cancelURL": "https://www.amazon.ca/kindle-dbs/ku/ku-central",
+      "supportURL": "https://www.amazon.ca/gp/help/customer/display.html",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "amazon-music",
+      "displayName": "Amazon Music Unlimited",
+      "names": [
+        "Amazon Music Unlimited",
+        "Amazon Music"
+      ],
+      "domains": [
+        "music.amazon.ca",
+        "music.amazon.com"
+      ],
+      "emailDomains": [
+        "amazon.ca",
+        "amazon.com"
+      ],
+      "cancelURL": "https://www.amazon.ca/music/settings",
+      "supportURL": "https://www.amazon.ca/gp/help/customer/display.html",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "1password",
+      "displayName": "1Password",
+      "names": [
+        "1Password"
+      ],
+      "domains": [
+        "1password.com"
+      ],
+      "emailDomains": [
+        "1password.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://support.1password.com/",
+      "logo": null,
+      "defaultTrialDays": 14,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "strava",
+      "displayName": "Strava",
+      "names": [
+        "Strava"
+      ],
+      "domains": [
+        "strava.com"
+      ],
+      "emailDomains": [
+        "strava.com"
+      ],
+      "cancelURL": "https://www.strava.com/account",
+      "supportURL": "https://support.strava.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "netflix",
+      "displayName": "Netflix",
+      "names": [
+        "Netflix"
+      ],
+      "domains": [
+        "netflix.com"
+      ],
+      "emailDomains": [
+        "netflix.com",
+        "mailer.netflix.com"
+      ],
+      "cancelURL": "https://www.netflix.com/cancelplan",
+      "supportURL": "https://help.netflix.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "disney-plus",
+      "displayName": "Disney+",
+      "names": [
+        "Disney+",
+        "Disney Plus"
+      ],
+      "domains": [
+        "disneyplus.com"
+      ],
+      "emailDomains": [
+        "disneyplus.com",
+        "mail.disneyplus.com"
+      ],
+      "cancelURL": "https://www.disneyplus.com/account/subscription",
+      "supportURL": "https://help.disneyplus.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "globe-and-mail",
+      "displayName": "The Globe and Mail",
+      "names": [
+        "The Globe and Mail",
+        "Globe and Mail"
+      ],
+      "domains": [
+        "theglobeandmail.com"
+      ],
+      "emailDomains": [
+        "theglobeandmail.com"
+      ],
+      "cancelURL": "https://www.theglobeandmail.com/myaccount/",
+      "supportURL": "https://www.theglobeandmail.com/help/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "toronto-star",
+      "displayName": "Toronto Star",
+      "names": [
+        "Toronto Star"
+      ],
+      "domains": [
+        "thestar.com"
+      ],
+      "emailDomains": [
+        "thestar.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://www.thestar.com/help",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "masterclass",
+      "displayName": "MasterClass",
+      "names": [
+        "MasterClass"
+      ],
+      "domains": [
+        "masterclass.com"
+      ],
+      "emailDomains": [
+        "masterclass.com"
+      ],
+      "cancelURL": "https://www.masterclass.com/settings",
+      "supportURL": "https://support.masterclass.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "coursera",
+      "displayName": "Coursera Plus",
+      "names": [
+        "Coursera Plus",
+        "Coursera"
+      ],
+      "domains": [
+        "coursera.org"
+      ],
+      "emailDomains": [
+        "coursera.org",
+        "m.learn.coursera.org"
+      ],
+      "cancelURL": "https://www.coursera.org/my-purchases",
+      "supportURL": "https://www.coursera.support/",
+      "logo": null,
+      "defaultTrialDays": 7,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "chatgpt",
+      "displayName": "ChatGPT Plus",
+      "names": [
+        "ChatGPT Plus",
+        "ChatGPT Pro",
+        "ChatGPT"
+      ],
+      "domains": [
+        "chatgpt.com",
+        "openai.com"
+      ],
+      "emailDomains": [
+        "openai.com",
+        "tm.openai.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://help.openai.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "claude",
+      "displayName": "Claude",
+      "names": [
+        "Claude Pro",
+        "Claude Max",
+        "Claude"
+      ],
+      "domains": [
+        "claude.ai"
+      ],
+      "emailDomains": [
+        "anthropic.com",
+        "mail.anthropic.com"
+      ],
+      "cancelURL": "https://claude.ai/settings/billing",
+      "supportURL": "https://support.claude.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "perplexity",
+      "displayName": "Perplexity Pro",
+      "names": [
+        "Perplexity Pro",
+        "Perplexity"
+      ],
+      "domains": [
+        "perplexity.ai"
+      ],
+      "emailDomains": [
+        "perplexity.ai"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://www.perplexity.ai/help-center",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "midjourney",
+      "displayName": "Midjourney",
+      "names": [
+        "Midjourney"
+      ],
+      "domains": [
+        "midjourney.com"
+      ],
+      "emailDomains": [
+        "midjourney.com"
+      ],
+      "cancelURL": "https://www.midjourney.com/account",
+      "supportURL": "https://docs.midjourney.com/",
+      "logo": null,
+      "defaultTrialDays": null,
+      "billedVia": [
+        "direct"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "peloton",
+      "displayName": "Peloton App",
+      "names": [
+        "Peloton App",
+        "Peloton"
+      ],
+      "domains": [
+        "onepeloton.ca",
+        "onepeloton.com"
+      ],
+      "emailDomains": [
+        "onepeloton.com",
+        "e.onepeloton.com"
+      ],
+      "cancelURL": null,
+      "supportURL": "https://support.onepeloton.com/",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore",
+        "googlePlay"
+      ],
+      "lastVerified": null
+    },
+    {
+      "key": "todoist",
+      "displayName": "Todoist",
+      "names": [
+        "Todoist Pro",
+        "Todoist"
+      ],
+      "domains": [
+        "todoist.com"
+      ],
+      "emailDomains": [
+        "todoist.com"
+      ],
+      "cancelURL": "https://app.todoist.com/app/settings/subscription",
+      "supportURL": "https://todoist.com/help",
+      "logo": null,
+      "defaultTrialDays": 30,
+      "billedVia": [
+        "direct",
+        "appStore"
+      ],
+      "lastVerified": null
+    }
+  ]
+}

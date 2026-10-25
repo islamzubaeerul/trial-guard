@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Lumen Skincare order #10482 is confirmed
+#! sender=mail.lumenskincare.example
+Thanks for your order, Alex!
+Spend $50+ and get a FREE trial-size Hydra Cleanser (30 ml).
+Items: Hydra Serum 50 ml — $42.00 · Barrier Cream — $18.00 · FREE trial-size Hydra Cleanser — $0.00
+Subtotal $60.00 · Estimated delivery Oct 29, 2026

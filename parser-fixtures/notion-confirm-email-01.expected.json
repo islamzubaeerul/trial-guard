@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "notion",
+  "trialDays": 14,
+  "trialEnd": "2026-11-07",
+  "price": "12",
+  "cycle": "monthly",
+  "cancelURL": null
+}

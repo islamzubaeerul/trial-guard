@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "microsoft-365",
+  "trialDays": 31,
+  "trialEnd": "2026-11-24",
+  "price": "139.00",
+  "currency": "CAD",
+  "cycle": "yearly"
+}

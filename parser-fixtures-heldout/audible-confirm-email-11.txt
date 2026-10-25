@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=fr-CA currency=CAD
+#! title=Bienvenue dans Audible Premium Plus
+#! sender=audible.ca
+Bonjour Alex,
+Bienvenue dans Audible Premium Plus! Votre essai gratuit de trente jours commence aujourd'hui. Profitez d'un crédit par mois et de tout le catalogue Plus.
+Si vous ne résiliez pas, vous serez facturé 14,95 $ par mois à partir du 23 novembre 2026.
+Merci,
+L'équipe Audible

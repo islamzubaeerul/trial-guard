@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Dropbox Plus trial
+#! sender=dropboxmail.com
+Your Dropbox Plus free trial is active.
+Your trial ends Nov 23. Cancel before Nov 23, 2026 to avoid being charged CAD 14.99/month.

@@ -1,0 +1,7 @@
+{
+  "isTrial": false,
+  "serviceKey": null,
+  "trialEnd": null,
+  "overallBelow": 0.5,
+  "_why": "One-time software license receipt. '1 year of free updates' contains a length ('1 year') and the word 'free' but no signal phrase. A loose length pattern would turn this into a 1-year trial."
+}

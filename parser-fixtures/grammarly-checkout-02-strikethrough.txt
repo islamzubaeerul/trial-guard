@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.grammarly.com/upgrade/checkout
+#! title=Grammarly checkout
+Limited offer: save $5. Was $19.99/month.
+Start your 7-day free trial, then $14.99/month.

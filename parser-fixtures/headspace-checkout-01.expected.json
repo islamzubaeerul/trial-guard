@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "headspace",
+  "trialDays": 14,
+  "trialEnd": "2026-11-07",
+  "price": "89.99",
+  "currency": "CAD",
+  "cycle": "yearly"
+}

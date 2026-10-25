@@ -1,0 +1,4 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://shop.example.com/policies
+#! title=Shipping and returns
+30-day returns on all items. Free shipping on orders over $35. Free for members.

@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.spotify.com/ca-en/purchase/panel/?offer=premium-individual
+#! title=Spotify Premium - Checkout
+Premium Individual
+1 month free trial
+Your trial runs until November 24, 2026. After that, CA$11.99/month. Cancel anytime.
+Due today CA$0.00
+Account: Alex Doe · alex@example.com

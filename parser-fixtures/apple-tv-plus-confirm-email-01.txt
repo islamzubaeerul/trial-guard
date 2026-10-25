@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your subscription confirmation
+#! sender=email.apple.com
+Apple TV+ (7 Days Free)
+Your free trial ends Nov 1, 2026.
+Your subscription will automatically renew at C$12.99/month unless cancelled at least 24 hours before the end of the trial.
+Apple Account: alex@example.com

@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-US currency=USD
+#! url=https://www.grammarly.com/upgrade/checkout
+#! title=Grammarly Pro checkout
+Grammarly Pro
+7-day free trial
+US$30.00 a month after trial. Cancel anytime before the trial ends.

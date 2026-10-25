@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Super Duolingo is on!
+#! sender=duolingo.com
+You've unlocked 2 weeks free of Super Duolingo.
+Then $119.99 a year. You can cancel anytime in your app store settings.

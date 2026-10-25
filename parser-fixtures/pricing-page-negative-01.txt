@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.netflix.com/ca/signup/planform
+#! title=Netflix - Choose your plan
+Choose the plan that's right for you
+Standard with ads $7.99/month
+Standard $18.99/month
+Premium $23.99/month

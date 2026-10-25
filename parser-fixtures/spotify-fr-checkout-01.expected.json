@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "spotify",
+  "trialDays": 31,
+  "trialEnd": "2026-11-24",
+  "price": "11.99",
+  "currency": "CAD",
+  "cycle": "monthly"
+}

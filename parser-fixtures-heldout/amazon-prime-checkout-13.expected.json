@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": "amazon-prime",
+  "trialEnd": "2026-11-23",
+  "trialDays": 30,
+  "price": "9.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.amazon.ca/gp/primecentral",
+  "overallAtLeast": 0.8,
+  "_why": "amazon.ca matches amazon-prime, prime-video and kindle-unlimited. Aliases found: 'Amazon Prime' (12), 'Prime Video' (11), 'Prime' (5) -> longest wins -> amazon-prime. Cued by 'cancel anytime before'. 'After' is 37 chars before $9.99 (outside the 30-char window) so the price comes from the nearest-cycled rule (0.70); value is the same."
+}

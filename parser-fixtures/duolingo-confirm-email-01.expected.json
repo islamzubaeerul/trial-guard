@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "duolingo",
+  "trialDays": 14,
+  "trialEnd": "2026-11-07",
+  "price": "119.99",
+  "cycle": "yearly",
+  "cancelURL": null
+}

@@ -1,0 +1,4 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your package is on the way
+#! sender=ship.example.com
+Good news! Your package will arrive on Nov 2, 2026. Track it anytime.

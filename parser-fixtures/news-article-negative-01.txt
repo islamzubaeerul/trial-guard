@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://news.example.ca/2026/10/streaming-prices
+#! title=Streaming prices climb again
+Streaming prices climb again
+Netflix raised its Standard plan to $18.99/month this week, while Spotify's individual plan now costs $11.99 per month.
+Analysts expect more increases next year.

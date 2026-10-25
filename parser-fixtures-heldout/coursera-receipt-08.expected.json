@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": "coursera",
+  "trialEnd": "2026-10-31",
+  "trialDays": 7,
+  "price": "79",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.coursera.org/my-purchases",
+  "overallAtLeast": 0.8,
+  "_why": "Two dates: the signup date (Oct 24) comes first in text order but is uncued ('Start date:'); the first CUED date is Oct 31 ('trial ends:'). A parser that takes the first date, or the first date after 'billed'-like words, gets this wrong. 'Billed to:' at the end is a cue word with no date after it. CA$0.00 rejected; CA$79 preceded by 'After' -> preferred."
+}

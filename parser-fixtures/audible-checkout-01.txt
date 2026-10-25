@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.audible.ca/ep/freetrial
+#! title=Audible Free Trial
+Try Audible free for 30 days.
+Get 1 credit a month to keep any title.
+After 30 days, $14.95/month. Cancel anytime.

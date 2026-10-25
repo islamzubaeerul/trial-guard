@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": "crave",
+  "trialEnd": "2026-11-01",
+  "trialDays": 7,
+  "price": "22.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.crave.ca/fr/account",
+  "overallAtLeast": 0.8,
+  "_why": "French (fr-CA). now is Oct 25 so the 7-day trial ends Nov 1. '1er novembre' with no year -> next occurrence on/after today = 2026-11-01, cued by 'se termine le'. '22,99 $' -> '22.99'; bare '$' -> defaultCurrency CAD; preceded by 'facturé' -> preferred. AMBIGUITY: French length 'de 7 jours' comes AFTER 'essai gratuit' - depends on the undefined `patterns`. AMBIGUITY: anchor matching case - text is 'Gérer', the rule is written 'gérer'; user expects case-insensitive. (Without the anchor the DB would give the English /en/account URL to a French user.)"
+}

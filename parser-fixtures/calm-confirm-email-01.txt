@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Welcome to Calm Premium
+#! sender=calm.com
+Your 7-day free trial has begun.
+Your subscription will automatically renew on October 31, 2026 at $69.99/year.
+To cancel, visit your account.

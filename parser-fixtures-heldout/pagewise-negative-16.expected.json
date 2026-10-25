@@ -1,0 +1,7 @@
+{
+  "isTrial": false,
+  "trialEnd": null,
+  "nextChargeDate": "2027-10-24",
+  "overallBelow": 0.5,
+  "_why": "'30-day money-back guarantee' contains '-day' but not '-day trial'; must not be a length or signal. 'refund before' is not a cue, so Nov 23 is uncued; 'renews on' cues Oct 24, 2027 -> nextChargeDate (not trialEnd)."
+}

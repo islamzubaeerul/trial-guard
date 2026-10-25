@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your FREE Day Pass is ready!
+#! sender=hello.peakfitness.example
+Hi Alex,
+Your FREE Day Pass is ready! Come try us free — one visit, valid until November 7, 2026.
+Show this email at the front desk at Peak Fitness Leslieville.
+Loved it? Memberships from $49.99/month.

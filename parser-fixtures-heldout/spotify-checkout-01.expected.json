@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "spotify",
+  "trialEnd": "2026-11-24",
+  "trialDays": 31,
+  "price": "11.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.spotify.com/account/subscription/",
+  "_why": "'runs until' is NOT in the cue list, so the date is uncued; trialEnd comes from today + 1 calendar month (Oct 24 -> Nov 24 = 31 days), which happens to equal the written date. CA$0.00 is rejected (amount 0, 'due today'). CA$11.99 is preceded by 'After' -> preferred."
+}

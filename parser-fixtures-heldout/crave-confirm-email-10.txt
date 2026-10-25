@@ -1,0 +1,8 @@
+#! now=2026-10-25T09:00:00-04:00 tz=America/Toronto locale=fr-CA currency=CAD
+#! title=Bienvenue sur Crave
+#! sender=crave.ca
+#! anchor=Gérer mon abonnement|https://www.crave.ca/fr/account
+Bonjour Alex,
+Bienvenue sur Crave! Votre essai gratuit de 7 jours a commencé.
+Votre période d'essai se termine le 1er novembre; vous serez ensuite facturé 22,99 $ par mois, taxes en sus.
+Vous pouvez annuler en tout temps.

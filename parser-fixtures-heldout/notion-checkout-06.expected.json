@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": "notion",
+  "trialEnd": "2026-11-24",
+  "trialDays": 31,
+  "price": "12",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.notion.so/my-account/billing",
+  "overallAtLeast": 0.8,
+  "_why": "Anchor-provided cancel link: the first matching anchor ('Manage your plan') is http and must be skipped; 'Pricing' does not match; 'Billing' (https) wins at 0.95. Notion has cancelURL null in the DB, so only the anchor can supply it. 'no charge until' is not a cue -> trialEnd = today + 1 calendar month. '$12' -> canonical '12' (no invented decimals)."
+}

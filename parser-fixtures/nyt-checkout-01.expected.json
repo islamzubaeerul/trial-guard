@@ -1,0 +1,8 @@
+{
+  "isTrial": true,
+  "serviceKey": "nyt",
+  "trialDays": 30,
+  "trialEnd": "2026-11-23",
+  "price": "25",
+  "cycle": "monthly"
+}

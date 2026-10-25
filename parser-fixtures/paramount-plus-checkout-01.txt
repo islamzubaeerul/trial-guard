@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.paramountplus.com/ca/account/signup/
+#! title=Paramount+ Sign Up
+Try it free for 7 days
+$9.99/month after trial. Cancel anytime.

@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "audible",
+  "trialEnd": "2026-11-23",
+  "trialDays": 30,
+  "price": "14.95",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.audible.ca/account/overview",
+  "_why": "French. 'trente' is beyond the accepted number words (un-douze), so NO length matches; isTrial comes from 'essai gratuit'. Date cued by 'facturé' (30 non-sentence-ending chars between). trialDays is DERIVED: trialEnd - today = 30. '14,95 $ par mois' preceded by 'facturé' -> preferred. 'un crédit par mois' has no amount and must not produce a price."
+}

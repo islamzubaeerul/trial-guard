@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=fr-CA currency=CAD
+#! url=https://www.spotify.com/ca-fr/purchase/
+#! title=Spotify Premium - Paiement
+Premium Personnel
+Essai gratuit de 1 mois, puis 11,99 $/mois. Annulez en tout temps.

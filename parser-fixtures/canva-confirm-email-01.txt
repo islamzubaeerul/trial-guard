@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Canva Pro trial has started
+#! sender=email.canva.com
+Hi Alex,
+Welcome to Canva Pro! Your free trial has started.
+Your trial ends on November 23, 2026. After that, you'll be charged $16.99 CAD per month unless you cancel.
+You can cancel anytime from your account settings.
+The Canva Team

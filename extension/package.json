@@ -1,0 +1,20 @@
+{
+  "name": "trial-guard-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "report": "tsx scripts/parser-report.ts",
+    "report:json": "tsx scripts/parser-report.ts --json",
+    "validate:services": "tsx ../services-db/validate.mts",
+    "lint:no-network": "node scripts/no-network.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}

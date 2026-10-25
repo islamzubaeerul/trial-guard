@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://brightline.example/checkout
+#! title=Checkout | Brightline Studio
+#! anchor=Terms|https://brightline.example/terms
+#! anchor=Manage subscription|https://brightline.example/account/billing
+Brightline Pro
+Start your 14-day free trial. Then $8/month.
+Cancel anytime.

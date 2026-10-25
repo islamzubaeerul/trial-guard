@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your free month of Premium Career
+#! sender=linkedin.com
+Alex, your free trial of Premium Career has started.
+You'll be billed $39.99 CAD/month starting Nov 24, 2026. Cancel anytime before then.

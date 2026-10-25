@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-US currency=USD
+#! url=https://www.calm.com/signup-flow/checkout
+#! title=Calm - Start your trial
+Calm Premium
+Start your 7 day trial
+No charge until Oct 31, 2026. Then $69.99 USD/yr after your trial ends.
+Cancel anytime in Settings. Signed in as alex@example.com

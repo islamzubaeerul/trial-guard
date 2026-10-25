@@ -1,0 +1,6 @@
+{
+  "isTrial": false,
+  "trialEnd": null,
+  "overallBelow": 0.5,
+  "_why": "'free shipping for 30 days' contains no listed phrase ('free for' needs adjacency). AMBIGUITY: isTrial is also true when 'a trial length matched', and the length `patterns` are never defined - a bare '(\\d+) days' pattern would make this a trial. Lengths should only count when attached to trial wording."
+}

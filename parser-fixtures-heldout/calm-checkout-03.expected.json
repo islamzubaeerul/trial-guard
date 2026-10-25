@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "calm",
+  "trialEnd": "2026-10-31",
+  "trialDays": 7,
+  "price": "69.99",
+  "currency": "USD",
+  "cycle": "yearly",
+  "cancelURL": "https://www.calm.com/account",
+  "_why": "No phrase from the signal list appears ('7 day trial' has no hyphen, no 'free'), so isTrial rests entirely on the undefined length `patterns` matching '7 day trial'. User expects a trial. 'No charge until' is not a cue (only 'free until' is) -> trialEnd = today + 7. AMBIGUITY: '$69.99 USD' has a symbol before AND a code after; and the cycle '/yr' follows the code, not the amount directly. Both resolve to USD/yearly here."
+}

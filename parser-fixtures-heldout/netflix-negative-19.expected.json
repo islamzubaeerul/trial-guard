@@ -1,0 +1,8 @@
+{
+  "isTrial": false,
+  "serviceKey": "netflix",
+  "trialEnd": null,
+  "nextChargeDate": "2026-12-03",
+  "overallBelow": 0.5,
+  "_why": "Price-increase notice from a known service: confident service, cued date ('billing date' + ' on '), cycled prices - but no trial, so the overall score is halved and must stay < 0.5. Price NOT asserted - AMBIGUITY: two cycled candidates, no preference words, and no trial phrase to measure 'nearest' from; the user would want the new price $20.99."
+}

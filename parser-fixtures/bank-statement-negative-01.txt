@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your statement is ready
+#! sender=bank.example.com
+Your credit card statement is ready.
+Payment due date: November 15, 2026. Minimum payment $10.00.

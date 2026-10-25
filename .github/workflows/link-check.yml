@@ -1,0 +1,24 @@
+name: Weekly cancel-link check
+
+on:
+  schedule:
+    - cron: '17 13 * * 1'   # Mondays 09:17 Toronto (EDT)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: extension
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Check every cancel and support URL
+        run: npm run -s validate:services -- --check-urls | tee -a "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.amazon.ca/amazonprime?ref_=nav_prime_signup
+#! title=Amazon.ca: Prime
+Amazon Prime
+Start your 30-day free trial. Enjoy fast, free delivery, Prime Video and Prime Reading.
+After your free trial, Prime is just $9.99/month.
+Cancel anytime before November 23, 2026 and you won't be charged.
+Signed in as Alex Doe

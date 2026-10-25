@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.crave.ca/en/subscribe
+#! title=Subscribe to Crave
+Crave Standard with Ads
+Get 7 days free, then $22/month.
+Stream HBO Max originals, movies and more.

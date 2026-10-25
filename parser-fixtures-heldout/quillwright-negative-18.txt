@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Order confirmation - Quillwright Editor
+#! sender=store.quillwright.example
+Quillwright Editor — Personal License (perpetual)
+Order date: 2026-10-24
+Quillwright Editor Personal License × 1 — US$129.00
+Includes 1 year of free updates. Your license never expires.
+License holder: Alex Doe (alex@example.com)

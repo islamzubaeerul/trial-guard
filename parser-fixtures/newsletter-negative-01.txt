@@ -1,0 +1,4 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://news.example.com/newsletters
+#! title=Newsletters
+Subscribe to our morning newsletter. It's free forever, and you can unsubscribe anytime.

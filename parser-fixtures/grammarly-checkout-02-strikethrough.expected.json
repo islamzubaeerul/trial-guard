@@ -1,0 +1,8 @@
+{
+  "isTrial": true,
+  "serviceKey": "grammarly",
+  "trialDays": 7,
+  "trialEnd": "2026-10-31",
+  "price": "14.99",
+  "cycle": "monthly"
+}

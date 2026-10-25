@@ -1,0 +1,8 @@
+{
+  "isTrial": true,
+  "serviceKey": "google-one",
+  "trialDays": 31,
+  "trialEnd": "2026-11-24",
+  "price": "13.99",
+  "cycle": "monthly"
+}

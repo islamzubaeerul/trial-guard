@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-US currency=USD
+#! url=https://commerce.adobe.com/store/checkout
+#! title=Checkout | Adobe
+Creative Cloud Pro
+7-day free trial
+Then US$22.99/mo, billed monthly with an annual commitment.
+No charge today. Cancel before your trial ends and you won't be charged.

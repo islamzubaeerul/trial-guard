@@ -1,0 +1,12 @@
+{
+  "isTrial": false,
+  "serviceKey": "paramount-plus",
+  "trialEnd": null,
+  "trialDays": null,
+  "nextChargeDate": "2026-11-24",
+  "price": "12.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "overallBelow": 0.5,
+  "_why": "Intro price, not a free trial: 'first month' without 'free' is not a signal, and nothing else in the signal list appears, so isTrial is false and trialEnd must be absent. The cued date ('be billed') becomes nextChargeDate instead. Price: '$12.99/month' is preceded by 'then' -> preferred over the intro $0.99 (which has no cycle connector: 'for the first month'). AMBIGUITY: the contract doesn't say whether price is extracted at all when isTrial is false. AMBIGUITY: '$12.99' sits between the cue and the date - if '.' counts as sentence-ending, the date isn't cued; user expects it is cued. AMBIGUITY: does confidence.trialEnd score nextChargeDate when isTrial is false? overall < 0.5 either way after halving. Product question: users may still want a reminder before an intro price ends."
+}

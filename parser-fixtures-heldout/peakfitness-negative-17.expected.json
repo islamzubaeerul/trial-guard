@@ -1,0 +1,7 @@
+{
+  "isTrial": false,
+  "serviceKey": null,
+  "trialEnd": null,
+  "overallBelow": 0.5,
+  "_why": "Near-misses: 'free day pass' is not '-day trial'; 'try us free' is not 'try free' / 'try it free'; 'valid until' is not a cue. A cycled price is present but there is no trial. Fuzzy phrase matching would get this wrong."
+}

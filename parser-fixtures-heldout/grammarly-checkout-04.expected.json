@@ -1,0 +1,12 @@
+{
+  "isTrial": true,
+  "serviceKey": "grammarly",
+  "trialEnd": "2026-10-31",
+  "trialDays": 7,
+  "price": "144.00",
+  "currency": "USD",
+  "cycle": "yearly",
+  "cancelURL": "https://account.grammarly.com/subscription",
+  "overallAtLeast": 0.8,
+  "_why": "USD price on a CAD-default page: 'US$' must win over defaultCurrency. US$0.00 rejected (amount 0 / 'due today'). 'After' is 29 chars before US$144.00 -> preferred; 'billed annually' gives yearly. Cued via 'trial ends'."
+}

@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "headspace",
+  "trialEnd": "2026-11-07",
+  "trialDays": 14,
+  "price": "17.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://www.headspace.com/subscriptions",
+  "_why": "Signal via 'free for'. 'We'll charge you on' is NOT a cue ('charged on' / 'be charged' are), so trialEnd = today + 14 days (conf 0.70). AMBIGUITY: the contract never lists the length `patterns`; this assumes '14 days' after 'free for the first' is matched. If not, the contract yields no trialEnd at all, which a user would not expect. &nbsp; between 'CA$' and the amount must normalize to a space; whether 'CA$ 17.99' (space after symbol) is a valid money form is unstated - user expects yes."
+}

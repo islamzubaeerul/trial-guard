@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.canva.com/pro/checkout/
+#! title=Canva Pro | Checkout
+Try Canva Pro free for 30 days
+Unlock premium templates, Brand Kit and Background Remover.
+Start your free 30-day trial today. Then CA$16.99/month after your trial ends. Cancel anytime.
+Card number  Expiry  CVC
+Start free trial

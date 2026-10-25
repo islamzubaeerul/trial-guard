@@ -1,0 +1,8 @@
+{
+  "isTrial": true,
+  "serviceKey": "amazon-prime",
+  "trialDays": 30,
+  "trialEnd": "2026-11-23",
+  "price": "9.99",
+  "cycle": "monthly"
+}

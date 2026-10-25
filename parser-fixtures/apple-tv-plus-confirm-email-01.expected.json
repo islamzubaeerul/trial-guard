@@ -1,0 +1,10 @@
+{
+  "isTrial": true,
+  "serviceKey": "apple-tv-plus",
+  "trialDays": 7,
+  "trialEnd": "2026-11-01",
+  "price": "12.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": "https://apps.apple.com/account/subscriptions"
+}

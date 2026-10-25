@@ -1,0 +1,9 @@
+{
+  "isTrial": true,
+  "serviceKey": "crave",
+  "trialDays": 7,
+  "trialEnd": "2026-10-31",
+  "price": "22",
+  "currency": "CAD",
+  "cycle": "monthly"
+}

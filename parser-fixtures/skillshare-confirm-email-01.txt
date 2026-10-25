@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your Skillshare membership
+#! sender=skillshare.com
+Welcome! Your 1-month free trial has started.
+Your membership will automatically renew on November 24, 2026 for $167.88 billed annually.

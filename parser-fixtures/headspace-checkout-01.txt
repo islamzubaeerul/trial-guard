@@ -1,0 +1,6 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.headspace.com/subscriptions/checkout
+#! title=Headspace | Start your free trial
+Annual plan
+Start your 14-day free trial, then $89.99/year.
+We'll remind you before your trial ends.

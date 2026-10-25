@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Welcome to YouTube Premium
+#! sender=youtube.com
+Your 1-month trial of YouTube Premium has started.
+After Nov 24, 2026 you'll be charged $13.99/month. Cancel anytime in Settings at least 24 hours before your trial ends.

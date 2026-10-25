@@ -1,0 +1,73 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  web:
+    name: Parser (TS), services DB, privacy checks
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: extension
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: extension/package-lock.json
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - name: Parser accuracy report
+        run: npm run report | tee -a "$GITHUB_STEP_SUMMARY"
+      - run: npm run validate:services
+      - run: npm run lint:no-network
+      - name: TS parser results for parity
+        run: npm run -s report:json > ../ts.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ts-parser-results
+          path: ts.json
+
+  secrets:
+    name: Secret scan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  swift:
+    name: Parser (Swift) and parity
+    runs-on: macos-15
+    needs: web
+    steps:
+      - uses: actions/checkout@v4
+      - name: Swift toolchain
+        run: swift --version
+      - name: Swift tests
+        run: swift test --package-path ios/Packages/TrialGuardCore
+      - uses: actions/download-artifact@v4
+        with:
+          name: ts-parser-results
+      - name: Swift parser results
+        run: swift run --package-path ios/Packages/TrialGuardCore -c release tgparse parser-fixtures > swift.json
+      - name: Parity
+        run: node scripts/parity-compare.mjs ts.json swift.json parity-report.md
+      - name: Publish parity report
+        if: always()
+        run: cat parity-report.md >> "$GITHUB_STEP_SUMMARY" || true

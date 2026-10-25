@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Welcome to Headspace
+#! sender=email.headspace.com
+Welcome to Headspace, Alex!
+You're free for the first 14 days &mdash; explore every meditation, sleepcast and focus track.
+We'll charge you on November 7, 2026, then CA$&nbsp;17.99 per month until you cancel.
+Questions? Reply to this email. Sent to alex@example.com.

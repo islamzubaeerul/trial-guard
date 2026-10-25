@@ -1,0 +1,10 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.notion.so/checkout?plan=plus
+#! title=Checkout | Notion
+#! anchor=Manage your plan|http://www.notion.so/settings/plans
+#! anchor=Pricing|https://www.notion.com/pricing
+#! anchor=Billing|https://www.notion.so/my-account/billing
+Upgrade to Notion Plus
+Start your 1 month free trial today — no charge until November 24, 2026.
+Then $12 per month. Cancel anytime.
+Workspace: Alex Doe's Notion

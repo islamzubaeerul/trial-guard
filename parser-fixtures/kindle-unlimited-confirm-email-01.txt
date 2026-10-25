@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Welcome to Kindle Unlimited
+#! sender=amazon.ca
+Thanks for starting your Kindle Unlimited free trial.
+Your Kindle Unlimited free trial ends on November 23, 2026. Your membership fee of $11.99/month will be charged after that unless you cancel.

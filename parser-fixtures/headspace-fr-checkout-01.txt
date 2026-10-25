@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=fr-CA currency=CAD
+#! url=https://www.headspace.com/fr/subscriptions
+#! title=Headspace
+Forfait annuel
+14 jours d'essai gratuit, puis 89,99 $ par an.

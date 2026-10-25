@@ -1,0 +1,5 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=fr-CA currency=CAD
+#! title=Bienvenue sur Crave
+#! sender=crave.ca
+Votre essai gratuit de 7 jours prendra fin le 31 octobre 2026.
+Vous serez facturé 22 $ par mois par la suite.

@@ -1,0 +1,7 @@
+{
+  "isTrial": false,
+  "serviceKey": null,
+  "trialEnd": null,
+  "overallBelow": 0.5,
+  "_why": "AMBIGUITY: lowercased text contains the substring 'free trial' (from 'FREE trial-size'). The contract says the phrase must 'appear' but not whether it needs a word boundary after it. A user expects no trial; phrase matching should require a word boundary ('trial-size' is not 'trial')."
+}

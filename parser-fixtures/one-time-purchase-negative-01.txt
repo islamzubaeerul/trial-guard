@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! title=Your order receipt
+#! sender=shop.example.com
+Thanks for your order, Alex.
+Wireless headphones x1
+Total charged: $49.99 on Oct 24, 2026.
+Order number XXXX

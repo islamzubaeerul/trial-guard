@@ -1,0 +1,11 @@
+{
+  "isTrial": true,
+  "serviceKey": "duolingo",
+  "trialEnd": "2026-11-07",
+  "trialDays": 14,
+  "price": "12.99",
+  "currency": "CAD",
+  "cycle": "monthly",
+  "cancelURL": null,
+  "_why": "Trial end date appears BEFORE the trial phrase. The date is cued by the trailing form (the 40 chars after it begin with ' you'll be charged'). AMBIGUITY: 'begin with' - is the single leading space allowed? It must be, or this form can never match. Price has no preference word ('charged' is not in the list) -> only cycled candidate, 0.70. Duolingo cancelURL is null in the DB and there is no anchor."
+}

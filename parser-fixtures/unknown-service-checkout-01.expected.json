@@ -1,0 +1,10 @@
+{
+  "isTrial": true,
+  "serviceKey": null,
+  "serviceName": "Brightline Studio",
+  "trialDays": 14,
+  "trialEnd": "2026-11-07",
+  "price": "8",
+  "cycle": "monthly",
+  "cancelURL": "https://brightline.example/account/billing"
+}

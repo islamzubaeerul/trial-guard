@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-US currency=USD
+#! title=Your receipt from Pagewise
+#! sender=billing.pagewise.example
+Thanks for subscribing to Pagewise Pro, Alex.
+Amount paid: $59.99 USD (annual plan)
+Every plan includes a 30-day money-back guarantee — not happy? Request a refund before November 23, 2026.
+Your plan renews on October 24, 2027.

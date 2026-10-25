@@ -1,0 +1,7 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://pay.brightloom.example/checkout/session/8f3a
+#! title=Checkout - Brightloom Yoga Studio Online
+Unlimited On-Demand Classes
+Your 14-day free trial has started, Alex.
+Your first charge of $19.99/month will be on November 7, 2026. You can cancel online at any time before then.
+Receipt sent to alex@example.com

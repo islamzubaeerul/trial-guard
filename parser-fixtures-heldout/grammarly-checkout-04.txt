@@ -1,0 +1,8 @@
+#! now=2026-10-24T14:00:00-04:00 tz=America/Toronto locale=en-CA currency=CAD
+#! url=https://www.grammarly.com/upgrade/checkout?plan=annual
+#! title=Grammarly Pro | Checkout
+Grammarly Pro — Annual
+Your 7-day free trial starts today.
+Due today: US$0.00
+Trial ends Oct 31, 2026. After your trial, you'll pay US$144.00 billed annually.
+Cancel anytime from your account. Billing contact: Alex Doe
