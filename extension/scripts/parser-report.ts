@@ -3,7 +3,8 @@ import { parse } from '../src/parser';
 import { check, loadFixtures } from '../tests/fixtures';
 
 const TARGETS: Record<string, number> = { serviceKey: 0.95, trialEnd: 0.9, price: 0.85, negatives: 1 };
-const fixtures = loadFixtures();
+const dirArg = process.argv.indexOf('--dir');
+const fixtures = dirArg > 0 ? loadFixtures(process.argv[dirArg + 1]) : loadFixtures();
 const rows = fixtures.map((fx) => ({ name: fx.name, result: parse(fx.input), checks: check(parse(fx.input), fx.expected) }));
 
 if (process.argv.includes('--json')) {

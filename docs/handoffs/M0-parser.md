@@ -1,11 +1,11 @@
 ## Handoff: TG-3 to TG-9 (parser foundations)
 
-What changed: Parser contract v1.1; 43 fixtures (33 trial, 10 negative); TypeScript parser; Swift port in TrialGuardCore; parity script; 40-entry services DB with validator; CI and weekly link check.
+What changed: Parser contract v1.1; 63 fixtures (46 trial, 17 negative; 20 written blind by QA); TypeScript parser; Swift port in TrialGuardCore; parity script; 40-entry services DB with validator; CI and weekly link check.
 
 Files: `docs/contracts/parser.md`, `parser-fixtures/`, `extension/src/parser/`, `extension/tests/`, `extension/scripts/`, `ios/Packages/TrialGuardCore/`, `services-db/`, `scripts/parser-parity.sh`, `scripts/parity-compare.mjs`, `.github/workflows/`.
 
 How to verify:
-1. `cd extension && npm ci && npm test` → 56 tests pass.
+1. `cd extension && npm ci && npm test` → 76 tests pass.
 2. `npm run report` → every target met; "Failing fixtures" section absent.
 3. `npm run validate:services` → 0 errors (40 "never verified" warnings are expected).
 4. `npm run lint:no-network` → clean.
